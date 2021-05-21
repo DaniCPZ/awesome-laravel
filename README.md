@@ -35,5 +35,16 @@ Inspirado en [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-
 
 ### Testeo y depuración
 
-* [Clockwork](https://github.com/itsgoingd/clockwork) Integra la extensión Clockwork Chrome para depurar y crear perfiles de aplicaciones.
+* [Clockwork](https://github.com/itsgoingd/clockwork) - Integra la extensión Clockwork Chrome para depurar y crear perfiles de aplicaciones.
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integra una barra de depuración.
+* [Ignition](https://github.com/facade/ignition) - Una bonita pagina de error para tus aplicaciones en Laravel.
+* [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Visualizador del Log de Laravel.
+* [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Visualizador del Log de Laravel.
+* [LERN](https://github.com/tylercd100/lern) - Registrará excepciones en una base de datos y le enviará una notificación.
+* [Mail Preview](https://github.com/spatie/laravel-mail-preview) - Vista previa del correo.
+* [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - Integrar Nette Tracy Debugger(controlador de excepciones).
+* [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - Ejecuta artisan en un navegador web.
+* [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Herramienta para testeo de Rutas en Laravel.
+* [Laravel Tail](https://github.com/spatie/laravel-tail) - Permite seguir los Logs de tu aplicación.
+* [Laravel Telescope](https://github.com/laravel/telescope) - Bonito asistente de depuración.
 
