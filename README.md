@@ -51,7 +51,7 @@ Inspirado en [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-
 
 ### Autenticación y autorización
 
-* [Bouncer](https://github.com/itsgoingd/clockwork) - Administrar roles y permisos con cualquier aplicación que utilice modelos Eloquent.
+* [Bouncer](https://github.com/JosephSilber/bouncer) - Administrar roles y permisos con cualquier aplicación que utilice modelos Eloquent.
 * [Laratrust](https://github.com/santigarcor/laratrust) - Paquete de control de acceso basado en roles.
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token.
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Permite administrar los permisos y roles de los usuarios.
