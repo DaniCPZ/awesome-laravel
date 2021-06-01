@@ -20,6 +20,7 @@ Inspirado en [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-
 * [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](https://packalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
+* [made with Laravel](https://madewithlaravel.com/)
 
 ## Paquetes utiles
 
@@ -48,3 +49,16 @@ Inspirado en [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - Permite seguir los Logs de tu aplicación.
 * [Laravel Telescope](https://github.com/laravel/telescope) - Bonito asistente de depuración.
 
+### Autenticación y autorización
+
+* [Bouncer](https://github.com/itsgoingd/clockwork) - Administrar roles y permisos con cualquier aplicación que utilice modelos Eloquent.
+* [Laratrust](https://github.com/santigarcor/laratrust) - Paquete de control de acceso basado en roles.
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token.
+* [Laravel Permission](https://github.com/spatie/laravel-permission) - Permite administrar los permisos y roles de los usuarios.
+* [Laravel Socialite](https://github.com/laravel/socialite) - Admite la autenticación con Facebook, Twitter, LinkedIn, Google, GitHub, GitLab y Bitbucket.
+* [Socialite Providers 2.0](https://socialiteproviders.com/) - +100 Providers para Laravel Socialite.
+* [Google2FA](https://github.com/antonioribeiro/google2fa) - Autenticación de dos factores de Google.
+* [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Verificación de usuario y validación de correo electronico.
+* [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - Autentica a los usuarios de LDAP en tu aplicación.
+* [Doorman](https://github.com/clarkeash/doorman) - Limite el acceso a sus aplicaciones mediante el uso de códigos de invitación.
+* [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - Autorización y validación declarativa.
